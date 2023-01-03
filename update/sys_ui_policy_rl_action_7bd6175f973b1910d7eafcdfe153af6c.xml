@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="INSERT_OR_UPDATE">
+        <list/>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-21 19:49:46</sys_created_on>
+        <sys_id>7bd6175f973b1910d7eafcdfe153af6c</sys_id>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_7bd6175f973b1910d7eafcdfe153af6c</sys_update_name>
+        <ui_policy display_value="UI demo">05f2db5b973b1910d7eafcdfe153af93</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_rl_action>
+</record_update>
